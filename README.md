@@ -1,5 +1,5 @@
 # Job Portal
-Django Job Portal.  
+Django Job Portal.    
 
 # Technology  
 
@@ -8,7 +8,7 @@ Python 3.7.10
 Django 3.0
 ```
 
-## Installation
+## Installation 
 
 ```
 open terminal and type
